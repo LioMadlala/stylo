@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="812" height="446" viewBox="0 0 812 446">
+  <title>Untitled-8</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M185 125 C175 77 70 63 70 123 C70 177 190 177 190 237 C190 297 82 293 67 243" fill="none" stroke="#0d0120" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M260 65 L260 233 C260 265 285 277 315 267 M222 147 L310 147" fill="none" stroke="#0d0120" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M365 147 L420 255 M480 147 L420 255 L390 330" fill="none" stroke="#0d0120" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M532 65 L532 265" fill="none" stroke="#0d0120" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M594 209 C594 174.758 621.758 147 656 147 C690.242 147 718 174.758 718 209 C718 243.242 690.242 271 656 271 C621.758 271 594 243.242 594 209 Z" fill="none" stroke="#0d0120" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 385 C270 355 490 415 750 365" fill="none" stroke="#ff4f81" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
